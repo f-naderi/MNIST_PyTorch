@@ -47,14 +47,14 @@ python3 main.py --no_train --load_model "model/mnist_model.pth"
 
 ## Requirements
 
-· Python 3.10+
-. PyTorch
-· Matplotlib
-. NumPy
-. Requests
-. Scikit-learn
-. Seaborn
-. Tqdm
+* Python 3.10+
+* PyTorch
+* Matplotlib
+* NumPy
+* Requests
+* Scikit-learn
+* Seaborn
+* Tqdm
 
 ## References
 
