@@ -34,9 +34,9 @@ python3 main.py
 ```
 Options:
 
-· --epochs: Number of epochs (default: 10)
-· --batch_size: Batch size (default: 64)
-· --lr: Learning rate (default: 0.001)
+* --epochs: Number of epochs (default: 10)
+* --batch_size: Batch size (default: 64)
+* --lr: Learning rate (default: 0.001)
 
 ### Evaluate 
 
