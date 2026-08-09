@@ -12,8 +12,10 @@ Explainable_AI/
 ├── utils.py                  # Helper functions, data loading
 ├── train.py                  # Training script
 ├── evaluate.py               # Evaluation (confusion matrix, ROC curves, PR curves)
-├── MNIST-PyTorch.ipynb     # Interactive Jupyter notebook
+├── MNIST-PyTorch.ipynb       # Interactive Jupyter notebook
 └── requirements.txt          # Python dependencies
+
+> Note: Some files are excluded from the repository due to their large size
 
 ## Installation
 
